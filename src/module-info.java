@@ -5,6 +5,5 @@
  * @author User
  *
  */
-module Laba_6 {
-	requires java.desktop;
-}
+module Laba_7 {
+	requires java.desktop;}
